@@ -1,6 +1,0 @@
-@fintrack_HostAddress = http://localhost:5142
-
-GET {{fintrack_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
